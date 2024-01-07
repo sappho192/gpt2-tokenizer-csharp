@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT2Tokenizer", "GPT2Tokenizer\GPT2Tokenizer.csproj", "{77668EAC-5CF7-4635-B071-1AE6D7EDDA96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT2TokenizerTest", "GPT2TokenizerTest\GPT2TokenizerTest.csproj", "{81D641EF-C097-4427-B7BE-3504951B313A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77668EAC-5CF7-4635-B071-1AE6D7EDDA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77668EAC-5CF7-4635-B071-1AE6D7EDDA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77668EAC-5CF7-4635-B071-1AE6D7EDDA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77668EAC-5CF7-4635-B071-1AE6D7EDDA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D641EF-C097-4427-B7BE-3504951B313A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D641EF-C097-4427-B7BE-3504951B313A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D641EF-C097-4427-B7BE-3504951B313A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D641EF-C097-4427-B7BE-3504951B313A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FBBC6DD-3904-446D-B906-D244CAE74D3D}
+	EndGlobalSection
+EndGlobal
